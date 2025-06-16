@@ -1,1 +1,8 @@
-body{background-color: aqua;}
+body{
+    background-color: aqua;
+}
+
+footer{
+    background-color: azure;
+    color: rgb(67, 138, 138);
+}
